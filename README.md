@@ -1,10 +1,9 @@
-# llm-learning
+# agents
 
-https://github.com/ed-donner/llm_engineering
+https://github.com/ed-donner/agents
 
 ## Setup
 
 ```
-conda activate llms
-jupyter lab
+
 ```
